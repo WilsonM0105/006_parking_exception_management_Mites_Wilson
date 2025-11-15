@@ -1,0 +1,2 @@
+La parte que más se me dificualto fue ordenar todas las reglas de negocio para que cada excepción saltara en el momento correcto y tambien
+se me hizo dificil desarrollar el cálculo del tiempo de permanencia para que el límite de las 8 horas quedara bien validado.
